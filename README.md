@@ -30,4 +30,4 @@ pip install polygon-api-client
 
 ## CREDIT
 
-The iterations found here are varitions of that found in the documentation: https://github.com/polygon-io/client-python
+The iterations found here are directly derived from the documentation: https://github.com/polygon-io/client-python
