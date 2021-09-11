@@ -8,6 +8,9 @@ def ts_to_datetime(ts) -> str:
 
 
 def main():
+
+    POLYGON_API_KEY = os.environ.get('POLYGON_API_KEY')
+    
     key = ""
 
     # RESTClient can be used as a context manager to facilitate closing the underlying http session
